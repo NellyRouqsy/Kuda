@@ -1,0 +1,16 @@
+:root {
+  font-family: "Montserrat", system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 500;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  
+}
+body {
+  max-width: 1290px;
+  margin-right: auto;
+  margin-left: auto;
+}
